@@ -1,0 +1,1 @@
+Starting the web server: ´docker-compose --env-file .env up´
